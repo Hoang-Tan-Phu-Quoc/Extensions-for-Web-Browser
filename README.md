@@ -66,10 +66,10 @@ Xtreme Download Manager is a powerful tool to increase download speed.
 - Save and convert streaming videos from YouTube, Vimeo, Dailymotion, Google Video and thousands of other websites, resume broken/dead downloads and schedule downloads.
 - Support to convert downloaded videos to popular MP4 and MP3 formats.
 ### Installation
-Download the lastest version by following this link below.
+##### Download the lastest version by following this link below.
 - [Window](https://github.com/subhra74/xdm/releases/download/7.2.11/xdm-setup.msi)
 - [MacOS](https://sourceforge.net/projects/xdman/files/XDMSetup.dmg/download)
-Then install web browser extensions to use XDM.
+##### Then install web browser extensions to use XDM.
 - [Chrome Browser](https://chrome.google.com/webstore/detail/xtreme-download-manager/dkckaoghoiffdbomfbbodbbgmhjblecj/related)
 - [FireFox Browser](https://addons.mozilla.org/en-US/firefox/addon/xdm-browser-monitor/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 # 4. Mate Translate
@@ -123,5 +123,4 @@ From grammar and spelling to style and tone, Grammarly helps you eliminate writi
 ### Installation
 
 - [Chrome Browser](https://chrome.google.com/webstore/detail/ejoy-english-learn-with-m/amfojhdiedpdnlijjbhjnhokbnohfdfb)
-
 
